@@ -2,11 +2,15 @@
 title: Contributor Sandbox
 description: A place to experiment.
 published: true
-date: 2026-01-09T15:02:57.947Z
+date: 2026-01-09T15:14:51.412Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-08T17:10:00.866Z
 ---
 
-# How to use the sandbox
-This is a place to learn and experiment, seel free to add and update pages here.
+# How to Use the Contributors Sandbox
+The Contributors Sandbox folder is a place to learn and experiment, so free to add and update pages there. The folder is visible only to users in the Contributors group.
+
+All users in the Contributors group have full viewing and editing priveleges, so please don't update pages created by other Contributors without their permission, and please clean up (i.e. delete) pages that you no longer need.
+
+Have fun!
