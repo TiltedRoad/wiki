@@ -2,7 +2,7 @@
 title: Contributors Sandbox
 description: A place to experiment.
 published: true
-date: 2026-01-13T19:23:40.699Z
+date: 2026-01-13T19:29:36.694Z
 tags: 
 editor: markdown
 dateCreated: 2026-01-08T17:10:00.866Z
@@ -17,6 +17,6 @@ To gain full editing and immediate publishing of files in the sandbox, just logi
 
 All users in the Contributors group have full viewing and editing priveleges in the folder, so please don't update pages created by other Contributors without their permission. And please clean up (i.e. delete) pages that you no longer need. If you want to experiment with a page already created by someone else, I suggest you create a new page using the existing page as a template (i.e. create the page using the From Template option).
 
-Be aware that "Edit on GitHub" is currently configured to only edit Markdown files.
+Be aware that "Edit on GitHub" is currently configured to only edit Markdown files. Attempting to edit non-Markdown using "Edit on GitHub" will open the Content Manager but won't open the non-Markdown page for editing.
 
 Have fun!
