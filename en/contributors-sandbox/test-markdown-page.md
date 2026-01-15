@@ -12,7 +12,7 @@ dateCreated: 2026-01-09T15:36:26.358Z
 
 Your content here.
 
-**Manny was here!!! And again! And yet again!!!**
+**Manny was here!!! And again! And yet again!!! And again.**
 
 Making this page more colorful with a picture.
 
