@@ -14,6 +14,8 @@ Your content here.
 
 **Manny was here!!! And again! And yet again!**
 
+![](/assets/frog.jpg)
+
 Making this page more colorful with a picture.
 
 ![](/assets/birdie.jpg "This page is for the birds :-)")
